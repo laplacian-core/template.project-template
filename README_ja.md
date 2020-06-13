@@ -1,7 +1,7 @@
 <!-- @head-content@ -->
 # laplacian/template.project-template
 
-The template-project-template project.
+The template.project-template project.
 
 
 *Read this in other languages*: [[English](README.md)] [[简体中文](README_zh.md)]
@@ -160,6 +160,7 @@ $ ./script/generate
 
 
 - [model/project.yaml](<./model/project.yaml>)
+- [src/template/scripts/publish-local@main@.hbs.sh](<./src/template/scripts/publish-local@main@.hbs.sh>)
 
 
 <!-- @main-content@ -->
