@@ -1,4 +1,3 @@
-#@main@
 main() {
   if [ -z $SKIP_GENERATION ]
   then
@@ -6,4 +5,3 @@ main() {
   fi
   publish_local 'template'
 }
-#@main@
